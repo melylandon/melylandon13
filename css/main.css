@@ -1,0 +1,52 @@
+*{margin: 0;border:0;background-color: #9EBAAA }
+p{font-family: 'Roboto Mono', monospace; font-size: 25pt }
+nav{background-color: #C79C90; background-size: 150%; height: 150px;}
+	li{list-style: none;display: inline-block;padding: 35px 20px 23px 20px; text-align: center;}
+	a{text-decoration: none; color: black ;max-width: 920px; transition: 0.5s}
+	li:Hover{background-color: #EDBF36;}
+	ul{height: 80px;background-color:#EDBF36;}
+	#logoheader{height: 80px;float: left;margin-left: 50px}
+	#seccion1{align-content: center;}
+	div#tabla1{padding-top: 50px}
+	table{border-style: solid;border-color: black; padding: 30px;align-items: center;}
+	td{padding: 10px;align-items: center; background-color: #F8F6E9;}
+	th{padding: 10px;align-items: center; font-family: 'Roboto Mono', monospace;height: 100px:}
+	footer{align-items: center; background-color: #DAAB99; width: 500px: height:150px;}
+	#Galería{align-items:center;}
+	#hobbies {width: 100%}
+h1{font-family: 'Roboto Mono', monospace; font-size: 29pt} 
+h2{font-family: 'Roboto Mono', monospace; font-size: 29pt} 
+h3{font-family: 'Roboto Mono', monospace; font-size: 29pt}
+h4{font-family: 'Roboto Mono', monospace; font-size: 29pt}
+h5{font-family: 'Roboto Mono', monospace; font-size: 29pt}
+h6{font-family: 'Roboto Mono', monospace; font-size: 19pt}
+.descripción {font-family: 'Roboto Mono', monospace; font-size: 15pt; background-color:  #F8F6E9 }
+th{background-color:#C79C90 ;}
+.hobbiess{font-family: 'Roboto Mono', monospace; font-size: 15pt; background-color: #9EBAAA}
+.peliss{font-family: 'Roboto Mono', monospace; font-size: 15pt; background-color: #9EBAAA}
+.música{font-family: 'Roboto Mono', monospace; font-size: 15pt; background-color: #9EBAAA}
+.contacto{font-family: 'Roboto Mono', monospace; font-size: 22pt; background-color: #9EBAAA}
+ol{list-style-type: decimal;}
+table.id=".recetas" {background-color: black}
+.galeriaaaa{font-family: 'Roboto Mono', monospace; font-size: 20pt; background-color: #9EBAAA}
+div.figure {float: left;width: 98%; border:thin silver solid; margin: 0.5em; padding: 0.5em;}
+div.figure p {text-align: center; font-style: italic; font-size: 15pt;text-indent: 0;}
+div.figuree {float: left; width: 98%; border:thin silver solid; margin: 0.5em; padding: 0.5em;}
+div.figuree p {text-align: center; font-style: italic; font-size: 15pt;text-indent: 0;}
+div.figureee {float: left; width: 98%; border:thin silver solid; margin: 0.5em; padding: 0.5em;}
+div.figureee p {text-align: center; font-style: italic; font-size: 15pt;text-indent: 0;}
+div.figureeee {float: left; width: 98%; border:thin silver solid; margin: 0.5em; padding: 0.5em;}
+div.figureeee p {text-align: center; font-style: italic; font-size: 15pt;text-indent: 0;}
+div.figureeeee {float: left; width: 98%; border:thin silver solid; margin: 0.5em; padding: 0.5em;}
+div.figureeeee p {text-align: center; font-style: italic; font-size: 15pt;text-indent: 0;}
+div.figureeeeee {float: left; width: 98%; border:thin silver solid; margin: 0.5em; padding: 0.5em;}
+div.figureeeeee p {text-align: center; font-style: italic; font-size: 15pt;text-indent: 0;}
+form {margin: 0 auto; width: 400px; padding: 1em; border: 1px solid #CCC;border-radius: 1em;}
+ul {list-style: none;padding: 0;margin: 0;}
+form li + li {margin-top: 10em;}
+label {display: inline-block;width: 90px;text-align: right;}
+input,textarea {font: 1em sans-serif; width: 300px;box-sizing: border-box;border: 1px solid #999;}
+input:focus, textarea:focus { border-color: #000;}
+textarea { vertical-align: top; height: 0em;}
+.button {padding-left: 90px; }
+button {margin-left: .5em;}
